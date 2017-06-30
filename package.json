@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test-w": "/node_modules/.bin/mocha --reporter dot --growl --watch"
+    "test-w": "./node_modules/.bin/mocha --reporter dot --growl --watch"
   },
   "author": "",
   "license": "ISC",
