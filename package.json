@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "xml-parser": "^1.2.1"
+  },
+  "devDependencies": {
+    "chia": "0.0.1",
+    "mocha": "^3.4.2"
+  }
+}
